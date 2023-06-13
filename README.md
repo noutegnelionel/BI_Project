@@ -1,6 +1,6 @@
 # L’ANALYSE DE LA SÉANCE DES TIRS AU BUT EN FOOTBALL
 
-## Description du cas d’étude
+## Description
 Dans un match de football à élimination directe, une façon de départager deux équipes qui n’ont
 pas plus fait la différence pendant les temps règlementaires (temps qui dure 90 minutes au moins)
 et plus encore pendant les prolongations (période qui va jusqu’à 120 minutes) est d’appliquer les
