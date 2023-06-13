@@ -8,10 +8,7 @@ tirs au but. La séance des tirs au but est apparue pour la première fois en 19
 c’est un tirage au sort qui déterminait le vainqueur en cas d’égalité.
 
 Cette stratégie est aujourd’hui sujette à d’énorme interrogation et demande même à être révolu-
-tionnée pour de diverses raisons dont les facteurs psychologiques. Il est surtout reproché aux tirs
-
-au but de s’apparenter à une loterie et par conséquent, d’être injuste parfois, et de ne pas mettre en
-avant les qualités qui font l’essence du football, à savoir des compétences techniques, ou encore
+tionnée pour de diverses raisons dont les facteurs psychologiques. Il est surtout reproché aux tirs au but de s’apparenter à une loterie et par conséquent, d’être injuste parfois, et de ne pas mettre en avant les qualités qui font l’essence du football, à savoir des compétences techniques, ou encore
 organisation tactique. L’on peut supposer que si les tirs au but étaient véritablement une loterie,
 aucun facteur externe autre que la chance n’influencerait le résultat des tirs.
 Une situation serait soumise à cette conception, à savoir la probabilité de marquer plus de tirs
