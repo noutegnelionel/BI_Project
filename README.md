@@ -26,6 +26,15 @@ démonstration puis nos commentons les résultats.
 
 Nous avons récupéré les données sur les coupes du Monde, d’Afrique, d’Argentine, du Maroc, d’Algérie, d’Allemagne, d’Espagne du Portugal, des confédérations, d’Europe et bien d’autre, Le tout faisant une taille d’environ 111 ko. Par la suite, il était question de repérer toutes les finales qui se sont soldées au tir au but. Grace aux vidéos pour les finales les plus anciennes, nous avons pu voir l’ordre de passage de tir au but pour chacune des finales répertoriées. La Figure 4.5 ci-dessous montre notre fichier définitif contenant les données nécessaires pour l’analyse. Nous tenons à rap- peler que notre intention est de voir si nos résultats expliquent ce que pensent les psychologues du sport. Ensuite, il sera question pour nous d’utiliser l’outil décisionnaire Qlikview pour interpréter nos données.
 
+## Analyse des données du fichier finale
+
+Comparativement à ce que pensent les psychologues en matière de sport, nos résultats se situent
+au tour d’une moyenne de 62% pour des équipés vainqueurs qui débutent la séance au tir au but
+contre moins de 34% pour celles qui débutent en second position. Les spécialistes de la psychologie
+du sport nous expliquent qu’en fait ces différences s’expliquent par le fait que le stress occupe une
+place essentielle dans la probabilité de transformer ou de manquer un tir au but. Plus l’enjeu est
+important, plus la pression est grande et plus la performance diminue.
+
 
 ## Quel nouveau format pour les tirs au but ?
 Au regard des analyses des résultats obtenus dans l’étude de l’ordre de passage pendant la séance
