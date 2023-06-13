@@ -45,9 +45,11 @@ tirs au but. Ce nouveau format voudrait que l’équipe 1 débutera donc la séa
 - 3e tab = équipe 2, 4e tab = équipe 1
 - 5e tab = équipe 1, 6e tab = équipe 2
 - 7e tab = équipe 2, 8e tab = équipe 1
-- 9er tab = équipe 1, 10e tab = équipe 2 En cas d’égalité, l’équipe 2 tirera le 11e tir au but, l’équipe 1
+- 9er tab = équipe 1, 10e tab = équipe 2 
+En cas d’égalité, l’équipe 2 tirera le 11e tir au but, l’équipe 1
 le 12e, et ainsi de suite.Il est à noter que cette nouvelle formule pourrait être adopté l’an prochaine
 pendant la coupe du monde Russie 2018.
+
 En conclusion, les tirs aux buts ne s’apparentent pas à un jeu de hasard, mais bien à une épreuve
 qui met en exergue les capacités de gestion du stress et de contrôle des émotions, le tout sur fond
 de geste technique de base (frappe au but). Qu’il s’agisse de l’essence du football ou pas, si l’on
